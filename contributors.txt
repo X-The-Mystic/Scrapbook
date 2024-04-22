@@ -1,0 +1,6 @@
+#EternalBlue
+https://github.com/rapid7/metasploit-framework
+https://rapid7.com
+
+#IPsum
+https://github.com/stamparm/ipsum
