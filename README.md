@@ -1,5 +1,3 @@
-![Logo](https://i.imgur.com/PyKLAe7.png)
-
 [![License](https://img.shields.io/badge/license-The_Unlicense-red.svg)](https://unlicense.org/)
 
 Sketchbook
