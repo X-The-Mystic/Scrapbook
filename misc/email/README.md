@@ -8,11 +8,10 @@
 
 # Quickstart
 ```
-git clone https://github.com/py660/RickMail.git
-cd RickMail
+cd sketchbook
 pip3 install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
 #### Download credentials.json
-python3 main.py
+python3 misc/email/roll.py
 ```
 
 # How to get `credentials.json`
